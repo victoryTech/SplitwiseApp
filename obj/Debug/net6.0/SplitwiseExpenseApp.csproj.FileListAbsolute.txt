@@ -1,0 +1,15 @@
+E:\CelebalInternship\C#_Task\SplitwiseExpenseApp\SplitwiseExpenseApp\bin\Debug\net6.0\SplitwiseExpenseApp.exe
+E:\CelebalInternship\C#_Task\SplitwiseExpenseApp\SplitwiseExpenseApp\bin\Debug\net6.0\SplitwiseExpenseApp.deps.json
+E:\CelebalInternship\C#_Task\SplitwiseExpenseApp\SplitwiseExpenseApp\bin\Debug\net6.0\SplitwiseExpenseApp.runtimeconfig.json
+E:\CelebalInternship\C#_Task\SplitwiseExpenseApp\SplitwiseExpenseApp\bin\Debug\net6.0\SplitwiseExpenseApp.dll
+E:\CelebalInternship\C#_Task\SplitwiseExpenseApp\SplitwiseExpenseApp\bin\Debug\net6.0\SplitwiseExpenseApp.pdb
+E:\CelebalInternship\C#_Task\SplitwiseExpenseApp\SplitwiseExpenseApp\obj\Debug\net6.0\SplitwiseExpenseApp.csproj.AssemblyReference.cache
+E:\CelebalInternship\C#_Task\SplitwiseExpenseApp\SplitwiseExpenseApp\obj\Debug\net6.0\SplitwiseExpenseApp.GeneratedMSBuildEditorConfig.editorconfig
+E:\CelebalInternship\C#_Task\SplitwiseExpenseApp\SplitwiseExpenseApp\obj\Debug\net6.0\SplitwiseExpenseApp.AssemblyInfoInputs.cache
+E:\CelebalInternship\C#_Task\SplitwiseExpenseApp\SplitwiseExpenseApp\obj\Debug\net6.0\SplitwiseExpenseApp.AssemblyInfo.cs
+E:\CelebalInternship\C#_Task\SplitwiseExpenseApp\SplitwiseExpenseApp\obj\Debug\net6.0\SplitwiseExpenseApp.csproj.CoreCompileInputs.cache
+E:\CelebalInternship\C#_Task\SplitwiseExpenseApp\SplitwiseExpenseApp\obj\Debug\net6.0\SplitwiseExpenseApp.dll
+E:\CelebalInternship\C#_Task\SplitwiseExpenseApp\SplitwiseExpenseApp\obj\Debug\net6.0\refint\SplitwiseExpenseApp.dll
+E:\CelebalInternship\C#_Task\SplitwiseExpenseApp\SplitwiseExpenseApp\obj\Debug\net6.0\SplitwiseExpenseApp.pdb
+E:\CelebalInternship\C#_Task\SplitwiseExpenseApp\SplitwiseExpenseApp\obj\Debug\net6.0\SplitwiseExpenseApp.genruntimeconfig.cache
+E:\CelebalInternship\C#_Task\SplitwiseExpenseApp\SplitwiseExpenseApp\obj\Debug\net6.0\ref\SplitwiseExpenseApp.dll
